@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/themukul_99" target="blank"><img src="https://img.shields.io/twitter/follow/themukul_99?logo=twitter&style=for-the-badge" alt="themukul_99" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Website**
-
-- 🌱 I’m currently learning **Django and ReactJS**
-
 - 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **mukul.dharashivkar99@gmail.com**
