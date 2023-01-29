@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themukuldharashivkar&label=Profile%20views&color=0e75b6&style=flat" alt="themukuldharashivkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themukuldharashivkar" alt="themukuldharashivkar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/themukul_99" target="blank"><img src="https://img.shields.io/twitter/follow/themukul_99?logo=twitter&style=for-the-badge" alt="themukul_99" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Spring and Spring Boot**
