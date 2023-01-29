@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Mukul Dharashivkar</h1>
 <h3 align="center">I am a self-taught and aspiring software developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themukuldharashivkar&label=Profile%20views&color=0e75b6&style=flat" alt="themukuldharashivkar" /> </p>
 
