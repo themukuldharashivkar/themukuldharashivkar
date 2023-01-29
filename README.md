@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.themukuldharashivkar.me/](http://www.themukuldharashivkar.me/)
 
-- 💬 Ask me about **react, java, python**
+- 💬 Ask me about **ReactJS, Java, Python**
 
 - 📫 How to reach me **mukul.dharashivkar99@gmail.com**
 
