@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Spring and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [http://www.themukuldharashivkar.me/](http://www.themukuldharashivkar.me/)
+- 👨‍💻 All of my projects are available at [https://mukul-personal-site.vercel.app/](http://www.themukuldharashivkar.me/)
 
 - 💬 Ask me about **ReactJS, Java, Python**
 
